@@ -45,7 +45,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Sam Sharpe
   email: "ssharpe42y@gmail.com"
-  facebook: yourname  # eg. daattali
+  facebook: sam.sharpe.338  # eg. daattali
   github: ssharpe42    # eg. daattali
   twitter: SharpeWordz   # eg. daattali
   reddit: yourname    # eg. daattali
@@ -56,7 +56,7 @@ author:
   snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  spotify: 1163726675  # eg. daattali
   telephone: yourphone   # eg. +14159998888
 
 # Select which links to show in the footer
@@ -74,7 +74,7 @@ footer-links-active:
   snapchat: false
   instagram: false
   youtube: false
-  spotify: false
+  spotify: true
   telephone: false
 
 # Select which share links to show in posts
