@@ -10,7 +10,7 @@ carbonads: true
 
 - *Visual natural language query auto-completion for estimating instance probabilities.* 
 Samuel Sharpe, Jin Yan, Fan Wu, Iddo Drori. 
-CVPR Language and Vision Workshop, 2019. ([link](https://ssharpe42.github.io/VNLQAC/))
+CVPR Language and Vision Workshop, 2019. [\[paper\]](https://ssharpe42.github.io/VNLQAC/) [\[github\]](https://github.com/ssharpe42/VNLQAC)
 
 ## Course Projects
 
@@ -33,4 +33,5 @@ lasso formulated with linear programming objective and constraints
 - **[Stealing the Bases and Splitting the Rewards](https://sharpestats.com/stealing-bases-and-splitting-the-rewards/)** [\[github\]](https://github.com/ssharpe42/pSRAA) - Pitch adjusted version of Swipe Rate Above Average, a mixed model that estimates pitcher, catcher, and runner stolen base skills. 
 
 - **[Profiting Off the Nationals Presidents Race Puppet Masters](https://sharpestats.com/profiting-off-the-nationals-presidents-race-puppet-masters/)** [\[github\]](https://github.com/ssharpe42/PresidentRace) - How to bet on the Presidents Race and make money using decision trees. 
+
 ---
