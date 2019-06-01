@@ -24,7 +24,7 @@ description: Home Page
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  #Blog: "https://ssharpe42.github.io/"
+  Projects: "projects"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
