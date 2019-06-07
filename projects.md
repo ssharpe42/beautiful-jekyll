@@ -27,7 +27,7 @@ lasso formulated with linear programming objective and constraints
 
 - **[Making Baseball Slow Again](https://sharpestats.com/making-baseball-slow-again/)** [\[github\]](https://github.com/ssharpe42/PaceofPlay)- Analysis of the slowing pace of play in the MLB.
 
-- **[Who Are the Best Romcom Actors](https://sharpestats.com/who-are-the-best-romcom-actors/) [\[github\]](https://github.com/ssharpe42/RomComPlusMinus)** - 
+- **[Who Are the Best Romcom Actors](https://sharpestats.com/who-are-the-best-romcom-actors/)** [\[github\]](https://github.com/ssharpe42/RomComPlusMinus) - 
     Applying Regularized Adjusted Plus Minus (RAPM) to rate actors based on IMDB ratings. 
     
 - **[Stealing the Bases and Splitting the Rewards](https://sharpestats.com/stealing-bases-and-splitting-the-rewards/)** [\[github\]](https://github.com/ssharpe42/pSRAA) - Pitch adjusted version of Swipe Rate Above Average, a mixed model that estimates pitcher, catcher, and runner stolen base skills. 
