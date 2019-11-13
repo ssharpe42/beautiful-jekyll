@@ -22,6 +22,7 @@ CVPR Language and Vision Workshop, 2019. [\[paper\]](https://ssharpe42.github.io
 
 - **MVP Voter Model** [\[github\]](https://github.com/ssharpe42/MLB_MVPVoting) - MVP vote prediction model using fused 
 lasso formulated with linear programming objective and constraints
+    - **[2019 MLB MVP Predictions: Declining Focus on Batting Average](https://sharpestats.com/2019-mlb-mvp-predictions-declining-focus-on-batting-average/)** (2019 MVP)
     - **[All Betts are on Yelich](https://sharpestats.com/all-betts-are-on-yelich/)** (2018 MVP)
     - **[Thinking Like an MLB MVP Voter](https://sharpestats.com/thinking-like-an-mlb-mvp-voter/)** (2017 MVP)
 
