@@ -10,7 +10,7 @@ carbonads: true
 
 - *Visual natural language query auto-completion for estimating instance probabilities.* 
 Samuel Sharpe, Jin Yan, Fan Wu, Iddo Drori. 
-CVPR Language and Vision Workshop, 2019. [\[paper\]](https://ssharpe42.github.io/VNLQAC/) [\[github\]](https://github.com/ssharpe42/VNLQAC)
+CVPR Language and Vision Workshop, 2019. [\[paper\]](https://arxiv.org/abs/1910.04887) [\[github\]](https://github.com/ssharpe42/VNLQAC)
 
 ## Course Projects
 
