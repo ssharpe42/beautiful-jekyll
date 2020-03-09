@@ -18,6 +18,12 @@ CVPR Language and Vision Workshop, 2019. [\[paper\]](https://arxiv.org/abs/1910.
 
 -  **Random-Contact Memory-Decay Independent Cascades** [\[paper\]](https://ssharpe42.github.io/RCMD-IC) - Proposal of new cascade model of influence over social networks.
 
+## Professional Articles
+
+[**An Introduction to Expected Weighted On-Base Average (xwOBA)**](https://technology.mlblogs.com/an-introduction-to-expected-weighted-on-base-average-xwoba-29d6070ba52b) - Introduction to new baseball metrics derived from tracking data
+
+- [**MLB Pitch Classification**](https://technology.mlblogs.com/mlb-pitch-classification-64a1e32ee079) - Deep dive into recent enhancements of MLB's pitch classification system
+
 ## Blog Posts
 
 - **MVP Voter Model** [\[github\]](https://github.com/ssharpe42/MLB_MVPVoting) - MVP vote prediction model using fused 
